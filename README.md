@@ -11,8 +11,11 @@ TrafficEye is a real-time traffic monitoring system that detects and tracks vehi
 
 ## 📂 Project Structure  
 ├── tracker.py # Euclidean Distance Tracker for object tracking
+
 ├── traffic_monitor.py # Main script for vehicle detection & traffic control
+
 ├── traffic_1.mp4 # Sample video for testing
+
 └── README.md # Project documentation
 
 ##  Technologies Used  
